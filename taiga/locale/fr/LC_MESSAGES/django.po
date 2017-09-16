@@ -21,12 +21,14 @@
 # Stéphane Mor <stephanemor@gmail.com>, 2015
 # Thierno Rignoux <t.rignoux@gmail.com>, 2016
 # William Godin <williamgodin@gmail.com>, 2015
+# eldk <webmaster@opalesurfcasting.net>, 2017.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: taiga-back\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-08 16:30+0100\n"
-"PO-Revision-Date: 2017-03-06 16:54+0000\n"
+"PO-Revision-Date: 2017-09-16 10:40+0200\n"
 "Last-Translator: Taiga Dev Team <support@taiga.io>\n"
 "Language-Team: French (http://www.transifex.com/taiga-agile-llc/taiga-back/"
 "language/fr/)\n"
@@ -3201,6 +3203,13 @@ msgid ""
 "%(project)s  which is being managed on Taiga, a Free, open Source Agile "
 "Project Management Tool.\n"
 msgstr ""
+"\n"
+"Bonjour,\n"
+"Vous êtes invité sur https://taiga.opalesurfcasting.net"
+"\n"
+"%(full_name)s vous invite à vous joindre au projet %(project)s  qui "
+"est gérer à l'aide de Taiga, un graticiel de gestion de ressources open "
+"Source et Agile.\n"
 
 #: taiga/projects/templates/emails/membership_invitation-body-text.jinja:12
 #, python-format
@@ -3213,7 +3222,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Un petit mot de la part de celui ou celle qui vous a invitée :\n"
+"Un commentaire de la part de celui ou celle qui vous a invité :\n"
 "\n"
 "%(extra)s\n"
 "    "
@@ -3230,7 +3239,7 @@ msgid ""
 msgstr ""
 "\n"
 "---\n"
-"L'équipe Taiga\n"
+"L'équipe opalesurfcasting.net\n"
 
 #: taiga/projects/templates/emails/membership_invitation-subject.jinja:1
 #, python-format
@@ -3239,7 +3248,7 @@ msgid ""
 "[Taiga] Invitation to join to the project '%(project)s'\n"
 msgstr ""
 "\n"
-"[Taiga] Invitation à rejoindre le projet '%(project)s'\n"
+"[taiga.opalesurfcasting.net] Invitation à rejoindre le projet '%(project)s'\n"
 
 #: taiga/projects/templates/emails/membership_notification-body-html.jinja:4
 #, python-format
